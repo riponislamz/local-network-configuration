@@ -17,4 +17,3 @@ An industrial attachment project focused on designing, configuring, and implemen
 ## 📁 Project Deliverables
 * Network Topology Diagram (.pkt file)
 * Network Configuration Documentation
-*
